@@ -1,5 +1,5 @@
 import React from 'react';
-import './Spinner.scss';
+import './Spinner.css';
 import CircularProgress from '@material-ui/core/CircularProgress';
 
 const Spinner: React.FC = () => {
